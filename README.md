@@ -1,0 +1,1 @@
+This repo contains the the video and code files for the first question of Assignment 3. The file FormationControl.py has the code for simulation, while the file formation_control.mp4 has the video implementation 
